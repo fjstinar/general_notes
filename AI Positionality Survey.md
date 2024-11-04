@@ -11,3 +11,5 @@ Results:
 - [ ] Comparison of before and after of the select what data should be allowed questions
 - [ ] Chronback's alpha of the ethics questionnaire
 
+
+Results below:

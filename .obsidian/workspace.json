@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HPML Extension Privacy Policy.md",
+                "file": "AI Positionality Survey.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HPML Extension Privacy Policy"
+              "title": "AI Positionality Survey"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HPML Extension Privacy Policy.md",
+                "file": "AI Positionality Survey.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for HPML Extension Privacy Policy"
+              "title": "Backlinks for AI Positionality Survey"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HPML Extension Privacy Policy.md",
+                "file": "AI Positionality Survey.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from HPML Extension Privacy Policy"
+              "title": "Outgoing links from AI Positionality Survey"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HPML Extension Privacy Policy.md"
+                "file": "AI Positionality Survey.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of HPML Extension Privacy Policy"
+              "title": "Outline of AI Positionality Survey"
             }
           },
           {
@@ -175,18 +175,19 @@
   },
   "active": "5be709d771d4e25f",
   "lastOpenFiles": [
+    "HPML Extension Privacy Policy.md",
+    "AI Positionality Survey.md",
+    "Fairness Definitions in Education.md",
+    "Nigel Meeting Notes.md",
     "Fairness Everywhere.md",
+    "Research Projects.md",
+    "PIPs.md",
+    "Undergraduate Research.md",
+    "tmp.md",
     "TA/TAing.md",
     "TA/Screenshot 2024-10-03 at 3.09.11 PM.png",
     "TA/Screenshot 2024-10-03 at 3.09.36 PM.png",
-    "AI Positionality Survey.md",
-    "Fairness Definitions in Education.md",
-    "HPML Extension Privacy Policy.md",
-    "PIPs.md",
-    "tmp.md",
     "TMP Project Group Matching TA IS477.md",
-    "Undergraduate Research.md",
-    "Research Projects.md",
     "MATHia/MATHia TST Responses.md",
     "MATHia/MATHia Based.md",
     "MATHia/MATHia Algorithmic Fairness (CHI).md",
@@ -199,7 +200,6 @@
     "RETTL/RETTL ICMI Update.md",
     "MATHia",
     "TA",
-    "Nigel Meeting Notes.md",
     "RETTL"
   ]
 }
