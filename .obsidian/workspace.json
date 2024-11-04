@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI Positionality Survey.md",
+                "file": "TA/TAing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AI Positionality Survey"
+              "title": "TAing"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI Positionality Survey.md",
+                "file": "TA/TAing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for AI Positionality Survey"
+              "title": "Backlinks for TAing"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI Positionality Survey.md",
+                "file": "TA/TAing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from AI Positionality Survey"
+              "title": "Outgoing links from TAing"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI Positionality Survey.md"
+                "file": "TA/TAing.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of AI Positionality Survey"
+              "title": "Outline of TAing"
             }
           },
           {
@@ -175,8 +175,8 @@
   },
   "active": "5be709d771d4e25f",
   "lastOpenFiles": [
-    "HPML Extension Privacy Policy.md",
     "AI Positionality Survey.md",
+    "HPML Extension Privacy Policy.md",
     "Fairness Definitions in Education.md",
     "Nigel Meeting Notes.md",
     "Fairness Everywhere.md",

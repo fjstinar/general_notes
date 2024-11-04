@@ -39,6 +39,7 @@ make sure you put the sqlite3 exe in the correct directory
 Take these two schemas and create a relevant new schema that combines information from 
 both of them
 
+<img src="Screenshot 2024-10-03 at 3.09.36 PM.png" width = "500">
 ![[Screenshot 2024-10-03 at 3.09.36 PM.png]]
 
 ![[Screenshot 2024-10-03 at 3.09.11 PM.png]]
