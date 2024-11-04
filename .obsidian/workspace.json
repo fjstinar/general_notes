@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI Positionality Survey.md",
+                "file": "AI Positionality Survey/AI Positionality Survey.md",
                 "mode": "source",
                 "source": false
               },
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI Positionality Survey.md",
+                "file": "AI Positionality Survey/AI Positionality Survey.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI Positionality Survey.md",
+                "file": "AI Positionality Survey/AI Positionality Survey.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI Positionality Survey.md"
+                "file": "AI Positionality Survey/AI Positionality Survey.md"
               },
               "icon": "lucide-list",
               "title": "Outline of AI Positionality Survey"
@@ -175,14 +175,19 @@
   },
   "active": "5be709d771d4e25f",
   "lastOpenFiles": [
-    "Nigel Meeting Notes.md",
-    "AI Positionality Survey.md",
     "TA/TAing.md",
-    "HPML Extension Privacy Policy.md",
+    "AI Positionality Survey/AI Positionality Survey.md",
+    "AI Positionality Survey/aip4hist.png",
+    "AI Positionality Survey/aip3hist.png",
+    "AI Positionality Survey/aip2hist.png",
+    "AI Positionality Survey/aip1hist.png",
+    "AI Positionality Survey",
     "Fairness Definitions in Education.md",
+    "Nigel Meeting Notes.md",
+    "PIPs.md",
+    "HPML Extension Privacy Policy.md",
     "Fairness Everywhere.md",
     "Research Projects.md",
-    "PIPs.md",
     "Undergraduate Research.md",
     "tmp.md",
     "TA/Screenshot 2024-10-03 at 3.09.11 PM.png",

@@ -7,9 +7,14 @@ Results:
 - [x] Spearman correlation matrix
 	- [x] Individual questions
 	- [x] Factors
-- [ ] Wilcoxon test to see the difference (Confidence interval to see how big the effect could be)
+- [x] Wilcoxon test to see the difference (Confidence interval to see how big the effect could be)
 - [ ] Comparison of before and after of the select what data should be allowed questions
 - [ ] Chronback's alpha of the ethics questionnaire
+- [x] Measure that keeps track of if students changed their answer with in-group vs out-group (RQ2/3)
+	- [ ] Which direction did that flip happen
+	- [ ] chi squared test
+- [ ] Measure that keeps track of if students changed the amount of data that is allowed (RQ3)
+- [ ] Pearson's 
 
 
 ### Results below:
@@ -37,3 +42,55 @@ Results:
 
 
 #### Wilcoxon Tests
+
+f1 ~ political_affiliation: W = 972.5, p = .01385
+f2 ~ gender: W = 1320.5, p = 0.001765
+f3 ~ gender: W = 2549.5, p = 0.004377
+
+
+#### Ingroup vs Outgroup changing
+
+98 no change
+30 change
+
+wilcoxon test
+V = 213, p = 0.6787
+
+
+
+#### Question Distributions
+
+|            | 1   | 2   | 3   | 4   | 5   | 6   | 7   |
+| ---------- | --- | --- | --- | --- | --- | --- | --- |
+| aip1       | 1   | 10  | 12  | 28  | 34  | 27  | 16  |
+| aip2       | 2   | 12  | 13  | 19  | 35  | 29  | 18  |
+| aip3       | 13  | 14  | 20  | 31  | 25  | 17  | 8   |
+| aip4       | 37  | 19  | 25  | 12  | 19  | 9   | 7   |
+| ai_added_1 | 48  | 80  |     |     |     |     |     |
+| ai_added_2 | 22  | 106 |     |     |     |     |     |
+| ai_added_3 | 95  | 33  |     |     |     |     |     |
+| aip6       | 47  | 52  | 29  |     |     |     |     |
+| aip7       | 46  | 51  | 31  |     |     |     |     |
+
+aip1 = It is ethical to provide students with support that is determined by artificial intelligence algorithms.
+
+<img src="aip1hist.png" width = "500">
+![[aip1hist.png]]
+
+
+aip2 = Indicate how much you agree with the following statement. It is ethical to use information about past academic performance for each student.
+
+<img src="aip2hist.png" width = "500">
+![[aip2hist.png]]
+
+
+aip3 = Indicate how much you agree with the following statement. It is ethical to use information about each student's demographics.
+
+<img src="aip3hist.png" width = "500">
+![[aip3hist.png]]
+
+
+aip4 = Imagine your school wants to improve the grades of students in math courses. Your school currently has a bias in math scores where women have historically received worse scores on math exams. To improve this, the school developed an artificial intelligence algorithm that helped by automatically scoring tests, partly based on demographic features of each student. It is ethical to include demographic information in this case.
+
+<img src="aip4hist.png" width = "500">
+![[aip4hist.png]]
