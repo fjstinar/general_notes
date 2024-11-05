@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI Positionality Survey/AI Positionality Survey.md",
+                "file": "Nigel Meeting Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AI Positionality Survey"
+              "title": "Nigel Meeting Notes"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI Positionality Survey/AI Positionality Survey.md",
+                "file": "Nigel Meeting Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for AI Positionality Survey"
+              "title": "Backlinks for Nigel Meeting Notes"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI Positionality Survey/AI Positionality Survey.md",
+                "file": "Nigel Meeting Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from AI Positionality Survey"
+              "title": "Outgoing links from Nigel Meeting Notes"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI Positionality Survey/AI Positionality Survey.md"
+                "file": "Nigel Meeting Notes.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of AI Positionality Survey"
+              "title": "Outline of Nigel Meeting Notes"
             }
           },
           {
@@ -175,8 +175,8 @@
   },
   "active": "5be709d771d4e25f",
   "lastOpenFiles": [
-    "AI Positionality Survey/factorLoadings.png",
     "AI Positionality Survey/AI Positionality Survey.md",
+    "AI Positionality Survey/factorLoadings.png",
     "Nigel Meeting Notes.md",
     "TA/TAing.md",
     "AI Positionality Survey/aip4hist.png",

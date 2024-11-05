@@ -1,5 +1,15 @@
 #### 11.5.2024
+- get rid of OSF update in progress
+- end of RQ1, if types of data are more permissible. Non-parametric ANOVA. Kruskall-wallis test should be this.
+- RQ2 skip straight to confidence interval around the proportion. of people who say yes. If bigger or less than 0.5 (could be a z-statistic)
+- RQ3 wilcoxin then pairwise (t) test
 
+
+
+- 79 control condition (27 more)
+- 157 experiment condition (76 more)
+
+- could have 180 participants overall if we looked at fixed ANOVA (45 for each individual condition and a little bit more from control). Only change a little there is only a little of risk
 
 
 
