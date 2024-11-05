@@ -44,7 +44,9 @@ Results:
 #### Wilcoxon Tests
 
 f1 ~ political_affiliation: W = 972.5, p = .01385
+
 f2 ~ gender: W = 1320.5, p = 0.001765
+
 f3 ~ gender: W = 2549.5, p = 0.004377
 
 
