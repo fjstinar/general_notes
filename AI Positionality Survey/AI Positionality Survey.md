@@ -19,6 +19,12 @@ Results:
 
 ### Results below:
 
+#### Parallel Factor Analysis
+
+<img src = "factorLoadings.png", width = "500">
+![[factorLoadings.png]]
+
+
 #### Correlation Matrix
 
 |                                    |        |                       |          |            |        |        |        |        |        |        |        |        |     |     |
@@ -41,13 +47,15 @@ Results:
 
 
 
-#### Wilcoxon Tests
+#### T Tests
 
-f1 ~ political_affiliation: W = 972.5, p = .01385
+rank-sum
 
-f2 ~ gender: W = 1320.5, p = 0.001765
+f1 ~ political_affiliation: t = -2.3541, df = 42.723, p-value = 0.02323
 
-f3 ~ gender: W = 2549.5, p = 0.004377
+f2 ~ gender: t = -3.3205, df = 109.49, p-value = 0.001221
+
+f3 ~ gender: t = 2.9295, df = 114.38, p-value = 0.004099
 
 
 #### Ingroup vs Outgroup changing
