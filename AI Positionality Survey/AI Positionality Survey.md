@@ -49,7 +49,6 @@ Results:
 
 #### T Tests
 
-rank-sum
 
 f1 ~ political_affiliation: t = -2.3541, df = 42.723, p-value = 0.02323
 
