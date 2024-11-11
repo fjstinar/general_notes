@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 217.5
   },
   "right": {
     "id": "1fac9666deaedd0c",
@@ -160,7 +160,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 361.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,6 +178,8 @@
     "AI Positionality Survey/AI Positionality Survey.md",
     "AI Positionality Survey/factorLoadings.png",
     "Nigel Meeting Notes.md",
+    "AI Positionality Survey/~$per_Outline_AIPOSITION_frankv1.docx",
+    "AI Positionality Survey/Paper_Outline_AIPOSITION_frankv1.docx",
     "TA/TAing.md",
     "AI Positionality Survey/aip4hist.png",
     "AI Positionality Survey/aip3hist.png",

@@ -1,7 +1,7 @@
 #### 11.5.2024
 - get rid of OSF update in progress
 - end of RQ1, if types of data are more permissible. Non-parametric ANOVA. Kruskall-wallis test should be this.
-- RQ2 skip straight to confidence interval around the proportion. of people who say yes. If bigger or less than 0.5 (could be a z-statistic)
+- RQ2 skip straight to confidence interval around the proportion. of people who say yes. If bigger or less than 0.5 (could be a z-statistic) (for yes/no questions)
 - RQ3 wilcoxin then pairwise (t) test
 
 
