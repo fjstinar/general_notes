@@ -21,5 +21,5 @@ The HPML Lab may use your information to understand trends in interactions with 
 
 
 #### HOW WE PROTECT INFORMATION
-- AES256 encrypted during transmission and during storage. Always encrypted...
-- Vulnerable to quantum encryption
+
+We protect your information using AES256 encryption during the transmission of the data and while storing your data. Furthermore, all data is anonymized for the developers, so there is no way we can know which data belongs to which user.

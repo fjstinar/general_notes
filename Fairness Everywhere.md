@@ -1,7 +1,16 @@
 Notion: https://www.notion.so/Fairness-everywhere-c851506c41bd432d91120f6372c87caf?pvs=4
 
 
+
+
+
 Choose datasets that contain the biases represented within education
+Assistments -> Mastery. X dimensions of bias. Measurement bias, 
+UCI ML REPO ->
+BKT ->
+
+
+
 
 
 
