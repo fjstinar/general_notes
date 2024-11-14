@@ -1,3 +1,14 @@
+https://esadoctors.com/airline/american-airlines-emotional-support-animal/
+
+#### 11.12.2024
+Chi 2 predictions on learning session before and after distributions. absolute value of the change and see if mean is greater than 0. There is change/look at direction there isnt much direction
+Could make a claim that the types of data are in rank order for RQ2
+Could believe that political_affiliation doesn't do anything in this task
+post-hoc corrections for multiple tests... Building 
+
+social psychology papers as an example. pspb journal
+reportt RMSEA
+
 #### 11.5.2024
 - get rid of OSF update in progress
 - end of RQ1, if types of data are more permissible. Non-parametric ANOVA. Kruskall-wallis test should be this.
@@ -112,8 +123,8 @@ spend time thinking about more participants
 #### 10/08/24
 RETTL
 	- slope of regression as scaling factor
-	- $274.07 $1.85 per person
-		- for underconfident 100 people for two variations. $1500 for underconfident participants
+	- $274.07 $1.78 per person. $20 for other participants
+		- for underconfident 100 people for two variations. $2000 for underconfident participants
 	- get some browser plugin updates
 
 #### 10/04/24
