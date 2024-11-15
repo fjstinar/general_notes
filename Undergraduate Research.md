@@ -1,4 +1,25 @@
 
+### 11/22/24
+
+
+Dataset:
+H: One different grade prediction dataset...
+
+Method:
+H: Logistic regression/random forest also use SVM models
+F: Switch to only preprocessing -> use ~4 methods.
+F: One can be SMOTE
+
+Result:
+F: Accuracy, AUC. Overall and per group before/after mitigation
+
+F: Statistical significance? Bootstrapping the confidence intervals?
+
+
+
+
+
+
 ### 10/22/24
 What the poster needs:
 - motivation

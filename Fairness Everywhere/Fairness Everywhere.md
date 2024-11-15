@@ -43,6 +43,32 @@ BKT ->
 
 
 
+11/15/2024 Rene + Tanja meeting
+I join the meeting and they are talking about the ability to escape
+
+Add measurement bias for XuetangX and EEDI
+
+Educational data has all of the biases. We chose datasets that have specific biases. Justification that informs specific datasets...
+ - Strategic about the specific biases present
+ - Showing that there is an inequality in the dataset
+
+Africa dataset:
+rising academies - AI powered math tutor (LEVI)
+Be focused on the reasons behind
+ - More diversity in types of data
+ - have there be multiple dimensions outside of just 'from African'
+
+Methods:
+Trade-offs:
+	- when there is a theoretical argument that is helpful
+	- Empirical is not as useful since it might depend on the dataset
+	- Might not be the best criterion to decide to use based off of
+Be careful of using citation count -> could be very biased 
+
+Rene: We want the methods to be easy to use and effective. Could be easier to go to the usability side to restrict. Could cluster the mitigation techniques.
+
+Email African datasets...
+
 
 
 
