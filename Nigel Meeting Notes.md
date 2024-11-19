@@ -7,7 +7,7 @@ Could believe that political_affiliation doesn't do anything in this task
 post-hoc corrections for multiple tests... Building 
 
 social psychology papers as an example. pspb journal
-reportt RMSEA
+report RMSEA
 
 #### 11.5.2024
 - get rid of OSF update in progress
