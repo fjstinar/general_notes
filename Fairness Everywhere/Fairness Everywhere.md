@@ -23,7 +23,7 @@ The MOOC data is massive and thus spans multiple years. Thus, students taking co
 
 Dataset: From Here to There
 
-Main Bias: Representation Bias
+Main Bias: Measurement Bias
 
 How they measured math anxiety and math self-efficacy could result in representation biases.
 
@@ -71,6 +71,26 @@ BKT ->
 | Fair Prediction of Students' Summative Performance Changes Using Online Learning Behavior Data                       | EDM        | 2024 | LR, SVM, DT, RF, KNN, NN                                  | treatment equality                    | treatment equality constraint during training | Yes         |
 |                                                                                                                      |            |      |                                                           |                                       |                                               |             |
 
+
+11/27/2024 Rene + Tanja Meeting
+
+Could use the current title
+
+Data:
+- Need to be careful that we are saying that the biases could be there.
+- Provides a good environment for studying the bias here. How we frame the bias. Could do preprocessing or say that it is a dataset that could potentially have a bias. 
+- Could have a very sensitive dataset for show for OVB. 
+
+Methods:
+- Rene: Worried about trade-off being a-priori. Something might have a theoretical tradeoff but might not have one for educational data. Or there might be a tradeoff, but it is very good at closing the gap.
+- Tanja: How many are there that have a tradeoff? It is difficult to exclude methods based on the proof of the tradeoff. Because methods might not be proven to *not* have a tradeoff.
+- Rene: Two problems, just because there is one tradeoff that != bad tradeoff. Other problem: papers might just not include the proof of no tradeoff. Could we implement the harder ones still with mitigateR example.
+- Tanja: If it is not applicable to education, that seems like the most important.
+- Rene: What makes them applicable to education? So some very problem specific methods have been developed. If I had to order these, I might start with applicable to education (integratabtle to existing pipelines). Then the usability aspect (has to be usable right now).
+- How many violate the "not-implementable in 1 full day"? Hard to make the "less than 1 day" not something based on our opinion. If you do not provide code, then we will not use it. Is there code online that is usable <- that can be the cutoff.
+- What is too resource hungry? Would we have to move outside of our own machine to use this method? (What is usable right now)
+- Rene: Could reorganize into useful and usable. Useful is the models that are are used in education based on our analysis. Useful bc it addresses problems in ed. Usable in the sense that it is open source/can be gotten somewhere or can be run on a similar machine that you would be running the algorithm on. Then good at closing the gap... we will see!
+- Could code for contextualization.
 
 
 11/15/2024 Rene + Tanja meeting
