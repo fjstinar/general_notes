@@ -1,6 +1,36 @@
 Notion: https://www.notion.so/Fairness-everywhere-c851506c41bd432d91120f6372c87caf?pvs=4
 
 
+Dataset: OULAD
+
+Main Bias: Omitted variable bias
+
+When predicting the final score, the only variables are the interactions within Virtual Learning Environments (VLEs) and features of the VLE.
+
+ **EXPAND
+
+**Adversarial Category**
+
+
+Dataset: XuetangX
+
+Main Bias: Longitudinal Data Bias
+
+The MOOC data is massive and thus spans multiple years. Thus, students taking courses might change across time.
+
+**EXPAND
+
+
+Dataset: From Here to There
+
+Main Bias: Representation Bias
+
+How they measured math anxiety and math self-efficacy could result in representation biases.
+
+**EXPAND
+
+
+
 
 
 

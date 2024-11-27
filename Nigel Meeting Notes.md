@@ -1,5 +1,8 @@
 https://esadoctors.com/airline/american-airlines-emotional-support-animal/
 
+
+
+
 #### 11.12.2024
 Chi 2 predictions on learning session before and after distributions. absolute value of the change and see if mean is greater than 0. There is change/look at direction there isnt much direction
 Could make a claim that the types of data are in rank order for RQ2
