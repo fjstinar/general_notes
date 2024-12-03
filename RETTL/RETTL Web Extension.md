@@ -21,6 +21,7 @@ Current To-do:
 		- [x] Approved
 	- [x] Edge
 	- [ ] Chrome
+		- [ ] Most recently submitted 12/2/2024
 	- [ ] Safari
 
 
