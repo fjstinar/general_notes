@@ -137,3 +137,26 @@ Are generalizable unfairness mitigation strategies applicable in reducing gender
 Is there a significant difference in model statistics when unfairness mitigation is applied?
 
 significances of each column before and after the unfairness mitigation was applied?
+
+(what is the procedure and the theoretical interpretation that this method is making any difference)
+
+
+-------
+Instead could calculate significance by computing confidence interval based on the difference this method makes. Calculate difference in prediction for every prediction, then pairwise.
+
+Difference between the errors for every prediction here... (maybe absolute values)
+
+Could make more sense in model comparisons. Wrong is 1, not wrong is 0. Subtract the absolute difference in true -predicted in one model vs the other model...
+
+Interesting methodologically
+
+What is
+
+For LFR Could multiple original coefficients by some feature importance in the model to see the impact in the model
+
+Coefficients for LFR information.
+
+SHAP would give matrix in original feature space size of how much the value changes. Significant difference in SHAP values for one group vs another group (with specific columns in mind).
+
+
+See if there is a way to select columns for 
