@@ -135,3 +135,5 @@ Research Questions:
 Are generalizable unfairness mitigation strategies applicable in reducing gender bias in grade prediction?
 
 Is there a significant difference in model statistics when unfairness mitigation is applied?
+
+significances of each column before and after the unfairness mitigation was applied?
