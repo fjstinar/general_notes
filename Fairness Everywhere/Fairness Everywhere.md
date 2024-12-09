@@ -1,5 +1,11 @@
 Notion: https://www.notion.so/Fairness-everywhere-c851506c41bd432d91120f6372c87caf?pvs=4
 
+How do you know that black vs white students is the highest dimension of unfairness?
+
+What is an intelligent tutoring system?
+
+Do these students all go to the same school/do you know which intelligent tutoring systems they have previously interacted with?
+
 
 Dataset: OULAD
 
